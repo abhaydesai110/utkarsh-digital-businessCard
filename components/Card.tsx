@@ -24,7 +24,7 @@ export default function CardComponent() {
       />
       <CardHeader className="pb-0 pt-2 px-4 flex-col items-start">
         <h4 className="font-bold text-large">
-          Utksh Madhu
+          Utkarsh Madhu
           <small className="text-default-500 font-thin">(for him)</small>
         </h4>
         <p className="text-tiny uppercase font-bold"></p>
